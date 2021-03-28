@@ -1,9 +1,9 @@
 import java.util.Scanner;
 /**
  * @author
- * Nama : Harris Munahar
+ * Nama : Putri juliani
  * Kelas : PBO FS112B
- * NIM : 2022436280
+ * NIM : 2011431557
  *
  */
 public class Main {
