@@ -8,9 +8,9 @@ package pbo6.pkg2011431557.latihan51.gajikaryawan_;
 /**
  *
  * @author
- * Nama : Rido Dwi Laksono
+ * Nama : Putri juliani
  * Kelas : PBO FS112B
- * NIM : 2022436243
+ * NIM : 2011431557
  */
 
 
